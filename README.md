@@ -2,7 +2,6 @@
 
 ### A passionate Python & Java developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SkyHax28&label=Profile views&color=0e75b6&style=flat" alt="SkyHax28" /> </p>
 
 - 👨‍💻 All of my projects are available at **[https://fakecrime.bio/skyhax](https://fakecrime.bio/skyhax)**
 
