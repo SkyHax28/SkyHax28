@@ -1,6 +1,6 @@
 # Hi 👋, I'm SkyHax28
 
-### A passionate Python & Java developer
+### A passionate Python
 
 
 - 👨‍💻 All of my projects are available at **[https://fakecrime.bio/skyhax](https://fakecrime.bio/skyhax)**
